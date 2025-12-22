@@ -1,0 +1,163 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="GenericProject.Main" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Unidata</title>
+    <meta content="Themesdesign" name="author" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <link rel="shortcut icon" href="design/assets/images/favicon.ico">
+        <link href="design/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+        <link href="design/assets/css/app.min.css" rel="stylesheet" type="text/css" />
+        <link href="design/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="design/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+        <link href="design/assets/libs/bootstrap-datepicker/css/bootstrap-datepicker.min.css" rel="stylesheet">
+        <link href="design/assets/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" type="text/css" />
+        <link href="design/assets/libs/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body data-sidebar="dark">
+    <form id="form1" runat="server">
+        <div id="layout-wrapper">
+            <header id="page-topbar">
+                <div class="navbar-header">
+                    <div class="d-flex">
+                        <div class="navbar-brand-box">
+                            <a href="Dashboard.aspx" class="logo logo-light">
+                                <span class="logo-sm">
+                                    <img src="design/assets/images/favicon.png" alt="" height="22">
+                                </span>
+                                <span class="logo-lg">
+                                    <img src="design/assets/images/SkyLogo.png" alt="" height="50">
+                                </span>
+                            </a>
+                        </div>
+                        <button type="button" class="btn btn-sm px-3 font-size-24 header-item waves-effect" id="vertical-menu-btn">
+                            <i class="ri-menu-2-line align-middle"></i>
+                        </button>
+                    </div>
+                </div>
+            </header>
+            <div class="vertical-menu">
+                <div class="h-100">
+                    <div id="sidebar-menu">
+                        <ul class="metismenu list-unstyled" id="side-menu">
+                            <li runat="server" id="lnkAccountBalance_Mobile" class="acc_name">
+                                <a href="javascrip:void(0);" class="waves-effect">
+                                    <span runat="server" style="font-weight: bold;" id="spnAccountBalance_Mobile"></span>
+                                </a>
+                            </li>
+                            <li runat="server" id="lnkDealerName_Mobile" class="acc_name">
+                                <a href="javascrip:void(0);" class="waves-effect">
+                                    <span runat="server" style="font-weight: bold;" id="spnDealerName_Mobile"></span>
+                                </a>
+                            </li>
+                            <li runat="server" id="lnkDashboard">
+                                <a href="Dashboard.aspx" class="waves-effect">
+                                    <i class="ri-dashboard-line"></i>
+                                    <span>Dashboard</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                    <i class="ri-store-2-line"></i>
+                                    <span>Admin</span>
+                                </a>
+                                <ul class="sub-menu" aria-expanded="false">
+                                    <li runat="server" id="lnkdealerlist"><a href="DealerList.aspx">Dealers</a></li>
+                                    <li runat="server" id="lnkuserlist"><a href="UserList.aspx">Users</a></li>
+                                    <li runat="server" id="lnkCustomerList"><a href="CustomerList.aspx">Customers</a></li>
+                                    <li runat="server" id="LiUpdateCustomerDetails"><a href="UpdateCustomerDetails.aspx">Update Customer Details</a></li>
+                                    <li runat="server" id="lnkAddfund"><a href="AddFund.aspx">Add Funds</a></li>
+                                    <li runat="server" id="lnkBanners"><a href="Banners.aspx">Banners</a></li>
+                                    <li runat="server" id="lnkChangePassword"><a href="ChangePassword.aspx">Change Password</a></li>
+                                    <li runat="server" id="lnkUpdatePlanPrice"><a href="UpdatePlanPrice.aspx">Update Plan Price</a></li>
+                                    <li runat="server" id="lnkPaymentHistory"><a href="PaymentHistory.aspx">Payment History</a></li>
+                                    <li runat="server" id="lnkAutoPayList"><a href="RechargeSubscriptionReport.aspx">Auto-Pay List</a></li>
+                                    <li runat="server" id="LiCheckTXNIDStatus"><a href="CheckTXNIDStatus.aspx">Send Email</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                    <i class="ri-store-2-line"></i>
+                                    <span>Inventory</span>
+                                </a>
+                                <ul class="sub-menu" aria-expanded="false">
+                                    <li runat="server" id="lnkPurchasedDevice"><a href="PurchasedDevice.aspx">Purchase Devices</a></li>
+                                    <li runat="server" id="lnkStockTransfer"><a href="StockTransfer.aspx">Transfer Devices</a></li>
+                                    <li runat="server" id="lnkDeviceList"><a href="DeviceList.aspx">Device List</a></li>
+                                    <li runat="server" id="lnkOfferIdList"><a href="OfferIdList.aspx">Offer ID List</a></li>
+                                    <li runat="server" id="lnkMappedDevices"><a href="MappedDevices.aspx">Device Mapping</a></li>
+                                </ul>
+                            </li>
+                            <li runat="server" id="lnkCheckDeviceStatus">
+                                <a href="CheckDeviceStatus.aspx">
+                                    <i class="ri-coupon-2-line"></i>
+                                    <span>Check Device Status</span>
+                                </a>
+                            </li>
+                            <li runat="server" id="lnkActivation">
+                                <a href="Activation.aspx">
+                                    <i class="ri-device-line"></i>
+                                    <span>Activate Device</span>
+                                </a>
+                            </li>
+                            <li runat="server" id="lnkRecharge">
+                                <a href="Recharge.aspx">
+                                    <i class="ri-device-line"></i>
+                                    <span>Recharge Device</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="javascript: void(0);" class="has-arrow waves-effect">
+                                    <i class="ri-store-2-line"></i>
+                                    <span>Reports</span>
+                                </a>
+                                <ul class="sub-menu" aria-expanded="false">
+                                    <li runat="server" id="lnkActivationReports"><a href="ActivationReports.aspx">Activation Reports</a></li>
+                                    <li runat="server" id="lnkRechargeReports"><a href="RechargeReports.aspx">Recharge Reports</a></li>
+                                    <li runat="server" id="lnkLoginHistory"><a href="LoginHistory.aspx">Login History</a></li>
+                                </ul>
+                            </li>
+                            <li runat="server" id="lnkMessageList">
+                                <a href="MessageList.aspx">
+                                    <i class="ri-file-2-line"></i>
+                                    <span>Message</span>
+                                </a>
+                            </li>
+                            <li runat="server" id="lnkLogout">
+                                <a href="Logout.aspx" class="waves-effect text-danger" style="font-weight: bold;">
+                                    <i class="ri-shut-down-line align-middle mr-1 text-danger"></i>
+                                    <span>Logout</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="design/assets/libs/jquery/jquery.min.js"></script>
+    <script src="design/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="design/assets/libs/metismenu/metisMenu.min.js"></script>
+    <script src="design/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="design/assets/libs/node-waves/waves.min.js"></script>
+    <script src="design/assets/libs/apexcharts/apexcharts.min.js"></script>
+    <script src="design/assets/libs/admin-resources/jquery.vectormap/jquery-jvectormap-1.2.2.min.js"></script>
+    <script src="design/assets/libs/admin-resources/jquery.vectormap/maps/jquery-jvectormap-us-merc-en.js"></script>
+    <script src="design/assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="design/assets/libs/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="design/assets/libs/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="design/assets/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+    <script src="design/assets/js/pages/dashboard.init.js"></script>
+    <script src="design/assets/js/app.js"></script>
+    <script src="design/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script src="design/assets/js/pages/apexcharts.init.js"></script>
+</body>
+</html>
