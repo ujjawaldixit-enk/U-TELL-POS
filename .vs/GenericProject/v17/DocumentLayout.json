@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\",
+  "WorkspaceRootPath": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\jsmethod\\forgotpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\github data\\u-tell-pos\\genericproject\\jsmethod\\forgotpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\jsmethod\\forgotpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\genericproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\genericproject\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\forgotpassword.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\jsmethod\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\genericproject\\jsmethod\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\jsmethod\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\genericproject\\forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\forgotpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\genericproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|c:\\projects\\in-proc\\u-tel\\genericproject (10-12-2025)\\genericproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\genericproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{03CB10BA-A0A6-42DF-8E38-64530ECE50FD}|GenericProject\\GenericProject.csproj|solutionrelative:genericproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "forgotpassword.js",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\jsMethod\\forgotpassword.js",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\jsMethod\\forgotpassword.js",
               "RelativeDocumentMoniker": "GenericProject\\jsMethod\\forgotpassword.js",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\jsMethod\\forgotpassword.js",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\jsMethod\\forgotpassword.js",
               "RelativeToolTip": "GenericProject\\jsMethod\\forgotpassword.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-12-22T07:31:53.129Z",
               "EditorCaption": ""
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\Web.config",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\Web.config",
               "RelativeDocumentMoniker": "GenericProject\\Web.config",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\Web.config",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\Web.config",
               "RelativeToolTip": "GenericProject\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -70,66 +70,61 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\Global.asax.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\Global.asax.cs",
               "RelativeDocumentMoniker": "GenericProject\\Global.asax.cs",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\Global.asax.cs",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\Global.asax.cs",
               "RelativeToolTip": "GenericProject\\Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:39:01.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T06:39:01.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ForgotPassword.aspx.cs",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\ForgotPassword.aspx.cs",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\ForgotPassword.aspx.cs",
               "RelativeDocumentMoniker": "GenericProject\\ForgotPassword.aspx.cs",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\ForgotPassword.aspx.cs",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\ForgotPassword.aspx.cs",
               "RelativeToolTip": "GenericProject\\ForgotPassword.aspx.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAewCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:25:11.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T06:25:11.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ForgotPassword.aspx",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\ForgotPassword.aspx",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\ForgotPassword.aspx",
               "RelativeDocumentMoniker": "GenericProject\\ForgotPassword.aspx",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\ForgotPassword.aspx",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\ForgotPassword.aspx",
               "RelativeToolTip": "GenericProject\\ForgotPassword.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-22T06:12:08.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T06:12:08.543Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "auth.js",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\jsMethod\\auth.js",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\jsMethod\\auth.js",
               "RelativeDocumentMoniker": "GenericProject\\jsMethod\\auth.js",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\jsMethod\\auth.js",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\jsMethod\\auth.js",
               "RelativeToolTip": "GenericProject\\jsMethod\\auth.js",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-22T05:53:53.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:53:53.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\Login.aspx",
+              "DocumentMoniker": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\Login.aspx",
               "RelativeDocumentMoniker": "GenericProject\\Login.aspx",
-              "ToolTip": "C:\\PROJECTS\\IN-PROC\\U-TEL\\GenericProject (10-12-2025)\\GenericProject\\Login.aspx",
+              "ToolTip": "C:\\PROJECTS\\GITHUB DATA\\U-TELL-POS\\GenericProject\\Login.aspx",
               "RelativeToolTip": "GenericProject\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-22T05:52:12.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:52:12.203Z"
             }
           ]
         }
