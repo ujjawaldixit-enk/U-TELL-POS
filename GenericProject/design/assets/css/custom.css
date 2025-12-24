@@ -1,0 +1,104 @@
+﻿:root {
+    --default-color: #013954;
+}
+a.logo_img {
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+    width: 150px;
+/*    margin: auto;*/
+    /* margin-top: 10px; */
+}
+.login_head {
+    text-align: center;
+    margin: 50px 0 0;
+}
+.login_head p {
+    margin-bottom:0px;
+}
+.login_part {
+    display: flex;
+    padding: 10px 20px 10px 0;
+    align-items: center;
+    background: #cdd3d1;
+    justify-content: space-between;
+}
+.login_footer {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    position: absolute;
+    bottom: 0;
+    /* text-align: center; */
+    width: 100%;
+    background: #cdd3d1;
+}
+.login_footer p {
+        margin-bottom: 0;
+        padding: 10px;
+}
+.login_side {
+    height: 100vh;
+}
+/*----------------popup-contact detail---------*/
+.contat_dtail {
+    position: relative;
+    cursor: pointer;
+}
+
+.contact-popup {
+    position: absolute;
+    top: 120%;
+    right: 0;
+    background: #fff;
+    padding: 8px 12px;
+    /*transform: translateX(-50%);*/
+    background: linear-gradient(145deg, #fff, #f0f0f5);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    white-space: nowrap;
+    padding: 12px 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    display: none;
+    z-index: 999;
+}
+/* Individual popup item */
+.popup-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+    /* Last item no margin */
+    .popup-item:last-child {
+        margin-bottom: 0;
+    }
+
+    /* Icons in popup */
+    .popup-item i {
+        margin-right: 8px;
+        color: var(--default-color); /* icon color */
+        font-size: 16px;
+    }
+
+    /* Headings bold + color */
+    .popup-item strong {
+        font-weight: bold;
+        margin-right: 4px;
+        color: #333; /* heading color */
+    }
+
+/* Text color different */
+.popup-text {
+    color: #555;
+    font-weight: normal;
+}
+
+
+/*------------------responsiveness------------*/
+@media (min-width: 320px) and (max-width: 767px) {
+    a.logo_img {
+        margin: revert;
+    }
+}
